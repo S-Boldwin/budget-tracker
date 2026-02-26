@@ -10,7 +10,7 @@ A clean, intuitive personal finance tracker to manage daily expenses with real-t
 
 ## 📸 Screenshot
 
-*(Add screenshot here after deployment)*
+![Budget Tracker Screenshot](webpage_screenshot.jpeg)
 
 ---
 
